@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\bll\\models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|solutionrelative:bll\\models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\bll\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|solutionrelative:bll\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\bll\\dal\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\bll\\dal\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\bll\\dal\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\views\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\bll\\models\\publishermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|solutionrelative:bll\\models\\publishermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\bll\\services\\bases\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bases\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\bll\\services\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|solutionrelative:bll\\services\\publisherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\bll\\dal\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\bll\\controllers\\bases\\mvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|solutionrelative:bll\\controllers\\bases\\mvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GamesDB/True/SqlTable/dbo.Games.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\views\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\views\\games\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\games\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\views\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\views\\shared\\_datetimepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_datetimepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\mvc\\templates\\viewgenerator\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B6C464-3A26-4DCC-B100-FC9CEB5DE7FD}|MVC\\MVC.csproj|solutionrelative:mvc\\templates\\viewgenerator\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|c:\\users\\ygt\\source\\repos\\xplays!\\bll\\migrations\\20241204142854_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588C46F3-877E-4EAE-9E01-86FB62DDA686}|BLL\\BLL.csproj|solutionrelative:bll\\migrations\\20241204142854_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Games\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Games\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Games\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Games\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAewE8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T15:41:57.167Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:14:35.017Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Games\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Games\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Games\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwEcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T12:34:45.558Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\DAL\\Publisher.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Publisher.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\DAL\\Publisher.cs",
+              "RelativeToolTip": "BLL\\DAL\\Publisher.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:38:25.837Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Models\\GameModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\GameModel.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Models\\GameModel.cs",
+              "RelativeToolTip": "BLL\\Models\\GameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:33:16.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Services\\GameService.cs",
+              "RelativeToolTip": "BLL\\Services\\GameService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAmwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:31:42.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241204142854_v1.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Migrations\\20241204142854_v1.cs",
+              "RelativeDocumentMoniker": "BLL\\Migrations\\20241204142854_v1.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Migrations\\20241204142854_v1.cs",
+              "RelativeToolTip": "BLL\\Migrations\\20241204142854_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:28:54.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Games\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Games\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Games\\Details.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Games\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T13:10:28.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:26:29.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\appsettings.json",
+              "RelativeToolTip": "MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T14:03:01.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwCMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:50:33.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\DAL\\Image.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Image.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\DAL\\Image.cs",
+              "RelativeToolTip": "BLL\\DAL\\Image.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:10:42.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Games.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\DAL\\Games.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Games.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\DAL\\Games.cs",
+              "RelativeToolTip": "BLL\\DAL\\Games.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:32:06.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T18:43:51.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\DAL\\Db.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Db.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\DAL\\Db.cs",
+              "RelativeToolTip": "BLL\\DAL\\Db.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:32:42.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T17:20:34.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PublisherModel.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Models\\PublisherModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\PublisherModel.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Models\\PublisherModel.cs",
+              "RelativeToolTip": "BLL\\Models\\PublisherModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:55:35.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Services\\Bases\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Bases\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Services\\Bases\\ServiceBase.cs",
+              "RelativeToolTip": "BLL\\Services\\Bases\\ServiceBase.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:37:53.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PublisherService.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Services\\PublisherService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PublisherService.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Services\\PublisherService.cs",
+              "RelativeToolTip": "BLL\\Services\\PublisherService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:10:48.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\PublishersController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAjwHQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:48:42.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Publishers\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Publishers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Publishers\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Publishers\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T18:44:31.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MvcController.cs",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Controllers\\Bases\\MvcController.cs",
+              "RelativeDocumentMoniker": "BLL\\Controllers\\Bases\\MvcController.cs",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\Controllers\\Bases\\MvcController.cs",
+              "RelativeToolTip": "BLL\\Controllers\\Bases\\MvcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:32:05.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T14:08:18.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\MVC.csproj",
+              "RelativeDocumentMoniker": "MVC\\MVC.csproj",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\MVC.csproj",
+              "RelativeToolTip": "MVC\\MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T14:13:59.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Games.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GamesDB/True/SqlTable/dbo.Games.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GamesDB/True/SqlTable/dbo.Games.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-27T13:13:43.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Games\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Games\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Games\\Delete.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Games\\Delete.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T13:03:47.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T12:40:17.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Games\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Games\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Games\\Edit.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Games\\Edit.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswDUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T13:10:32.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_DateTimePicker.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Shared\\_DateTimePicker.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_DateTimePicker.cshtml",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Views\\Shared\\_DateTimePicker.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_DateTimePicker.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T14:37:30.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Templates\\ViewGenerator\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Templates\\ViewGenerator\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ygt\\source\\repos\\XPLAYS!\\MVC\\Templates\\ViewGenerator\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Templates\\ViewGenerator\\Create.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T13:19:02.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

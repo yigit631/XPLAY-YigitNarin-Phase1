@@ -1,0 +1,189 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - XPlay</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <style>
+        /* Genel site teması */
+        body {
+            background-color: #1b2838; /* Arkaplan rengini Steam tarzı koyu yap */
+            color: #c7d5e0; /* Yazı rengi */
+            font-family: 'Arial', sans-serif;
+        }
+
+        /* Navbar tasarımı */
+        .navbar {
+            background-color: #171a21;
+            border-bottom: 1px solid #4d4d4d;
+            padding: 15px 0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Hafif gölge */
+            display: flex;
+            justify-content: space-between; /* Menüleri ve logoyu düzgün yerleştir */
+            align-items: center;
+        }
+
+        .navbar-brand {
+            color: #66c0f4; /* Ana renk vurgusu */
+            font-weight: bold;
+            font-size: 2rem;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Yazı gölgesi */
+            margin-left: 20px;
+        }
+
+        /* Menü bağlantı stili */
+        .navbar-nav {
+            display: flex;
+            flex-direction: row; /* Yatay sıralama */
+            gap: 20px; /* Menü öğeleri arasında boşluk */
+        }
+
+        .nav-link {
+            color: #c7d5e0 !important;
+            font-size: 1rem;
+            padding: 10px 15px;
+            text-transform: capitalize;
+            transition: color 0.3s ease, transform 0.3s ease;
+        }
+
+        .nav-link:hover {
+            color: #66c0f4 !important;
+            transform: scale(1.1); /* Hover sırasında büyüme efekti */
+        }
+
+        /* Ana içerik tasarımı */
+        main {
+            margin-top: 30px;
+            padding: 20px;
+            background: rgba(23, 26, 33, 0.9);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Gölgeli kutu */
+        }
+
+        /* Footer tasarımı */
+        .footer {
+            background-color: #171a21;
+            color: #c7d5e0;
+            padding: 15px 0;
+            text-align: center;
+            border-top: 1px solid #4d4d4d;
+        }
+
+        a {
+            color: #66c0f4;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: #8ab4f8;
+            text-decoration: underline;
+        }
+
+        /* Hover animasyonu */
+        *:hover {
+            transition: all 0.3s ease;
+        }
+
+        .yellow-text {
+            color: #FFD700; /* Altın sarısı rengi */
+        }
+
+        .yellow1-text {
+            color: #B8860B; /* Daha koyu altın sarısı rengi */
+        }
+
+
+        /* Oyun türleri kayan liste tasarımı */
+        .game-genres {
+            background-color: #171a21;
+            color: #c7d5e0;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+            position: relative;
+            margin-top: 20px;
+        }
+
+        .marquee-container {
+            overflow: hidden;
+            white-space: nowrap;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        .marquee-text {
+            display: inline-block;
+            padding-left: 100%;
+            animation: marquee 25s linear infinite;
+            font-size: 1.2rem;
+        }
+
+        @@keyframes marquee {
+            0% {
+                transform: translateX(100%);
+            }
+            100% {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">XPlay</a>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Games" asp-action="Index">Games</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Publishers" asp-action="Index">Publishers</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+
+        <!-- Oyun türleri hakkında kayan bilgi -->
+        <section class="game-genres">
+            <div class="marquee-container">
+                <p class="marquee-text">
+                    🎮 Aksiyon Oyunları: Hızlı tempolu savaşlarla dolu! |
+                    🧩 Bulmaca Oyunları: Beyninizi zorlamaya hazır olun! |
+                    🏎️ Yarış Oyunları: Hız tutkusu için! |
+                    🧙‍♂️ RPG Oyunları: Efsanevi dünyalarda yolculuk yapın! |
+                    🌍 Strateji Oyunları: Taktiksel dehanızı gösterin! |
+                    ⚔️ MOBA Oyunları: Takım bazlı savaşlara katılın! |
+                    🏠 Simülasyon Oyunları: Hayallerinizi inşa edin! |
+                    🏆 Spor Oyunları: Şampiyonluğa ulaşın!
+                </p>
+            </div>
+        </section>
+    </div>
+
+    <footer class="footer text-muted">
+        <div class="container">
+            &copy; 2024 - XPlay - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

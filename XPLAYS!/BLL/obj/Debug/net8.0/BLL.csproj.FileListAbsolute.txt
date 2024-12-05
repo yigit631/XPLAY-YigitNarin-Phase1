@@ -1,0 +1,25 @@
+C:\Users\ygt\source\repos\XPLAYS!\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\ygt\source\repos\XPLAYS!\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygt\source\repos\XPLAYS!\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\ygt\source\repos\XPLAYS!\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\ygt\source\repos\XPLAYS!\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ygt\source\repos\XPLAYS!\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\ygt\source\repos\XPLAYS!\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\ygt\source\repos\XPLAYS!\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\ygt\source\repos\XPLAYS!\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\ygt\source\repos\XPLAYS!\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\ygt\source\repos\XPLAYS!\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\ygt\source\repos\XPLAYS!\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\ygt\source\repos\XPLAYS!\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Arda-PC\Downloads\XPLAYS! (2)\XPLAYS!\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Arda-PC\Downloads\XPLAYS! (2)\XPLAYS!\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Arda-PC\Downloads\XPLAYS! (2)\XPLAYS!\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Arda-PC\Downloads\XPLAYS! (2)\XPLAYS!\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Arda-PC\Downloads\XPLAYS! (2)\XPLAYS!\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arda-PC\Downloads\XPLAYS! (2)\XPLAYS!\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Arda-PC\Downloads\XPLAYS! (2)\XPLAYS!\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Arda-PC\Downloads\XPLAYS! (2)\XPLAYS!\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Arda-PC\Downloads\XPLAYS! (2)\XPLAYS!\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Arda-PC\Downloads\XPLAYS! (2)\XPLAYS!\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Arda-PC\Downloads\XPLAYS! (2)\XPLAYS!\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Arda-PC\Downloads\XPLAYS! (2)\XPLAYS!\BLL\obj\Debug\net8.0\ref\BLL.dll

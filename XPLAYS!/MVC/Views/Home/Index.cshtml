@@ -1,0 +1,32 @@
+﻿@using BLL.Models
+@model IEnumerable<GameModel>
+
+<div class="container mt-5">
+    @if (Model != null && Model.Any())
+    {
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4">
+                    <div class="card">
+                        <!-- Use the actual game image URL -->
+                        <img src="@item.photoUrl" class="card-img-top" alt="@item.Name" />
+                        <div class="card-body">
+                            <h5 class="yellow1-text">@item.Name</h5>
+                            <p class="yellow-text">
+                                <strong>Publisher:</strong> @item.Publisher <br />
+                                <strong>Release Date:</strong> @item.ReleaseDate <br />
+                                <strong>Price:</strong> @item.Price
+                            </p>
+                            <a href="@Url.Action("Details", "Game", new { id = item.Record?.photoUrl })" class="btn btn-primary">View Details</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <p>No games available.</p>
+    }
+</div>
